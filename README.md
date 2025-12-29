@@ -1,16 +1,14 @@
-## Hi there 👋
+# Alfredo Moracho
 
-<!--
-**alfrevp/alfrevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Analista Programador Universitario en la Facultad de Informática (UNLP), actualmente en segundo–tercer año.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software y el análisis de datos.  
+Estoy en búsqueda de mis primeras experiencias profesionales en el ámbito tecnológico, abierto a desafíos que contribuyan a mi crecimiento profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formación
+- Analista Programador Universitario — UNLP (en curso)
+- Tecnicatura Superior en Periodismo Deportivo — UNLP (graduado)
+
+La formación en periodismo (3 años) me permitió desarrollar habilidades de comunicación y trabajo en equipo, que complemento con mi perfil técnico.
+
+_NOTA: Perfil y repositorios en desarrollo._
