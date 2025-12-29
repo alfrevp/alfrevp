@@ -1,6 +1,6 @@
 # Alfredo Moracho
 
-_Este perfil y sus repositorios se encuentran en desarrollo._
+_NOTA: Este perfil y sus repositorios se encuentran en desarrollo._
 
 🎓 **Estudiante de Analista Programador Universitario**  
 Facultad de Informática (UNLP) — segundo–tercer año
