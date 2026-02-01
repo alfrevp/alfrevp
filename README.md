@@ -11,5 +11,3 @@ Facultad de Informática (UNLP) — segundo–tercer año
 ## 📚 Formación
 - **Analista Programador Universitario** — UNLP (en curso)
 - **Tecnicatura Superior en Periodismo Deportivo** — UNLP (graduado)
-
-La formación en periodismo (3 años) me permitió desarrollar habilidades de comunicación y trabajo en equipo, que complemento con mi perfil técnico.
